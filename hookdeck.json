@@ -1,0 +1,22 @@
+{
+    "version": "0.0.2",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/hookdeck/hookdeck-cli/releases/download/v0.0.2/hookdeck_0.0.2_windows_i386.zip",
+            "bin": [
+                "hookdeck.exe"
+            ],
+            "hash": "854e6fde35d3abad9d4ed686337df2b31cc9d6356cf6ab767c1fb74b0431aea5"
+        },
+        "64bit": {
+            "url": "https://github.com/hookdeck/hookdeck-cli/releases/download/v0.0.2/hookdeck_0.0.2_windows_x86_64.zip",
+            "bin": [
+                "hookdeck.exe"
+            ],
+            "hash": "a893985697445126e7af30f499d2cb0791d1c0a004882c435a3e0cf492256e13"
+        }
+    },
+    "homepage": "https://hookdeck.com",
+    "license": "Apache 2.0",
+    "description": "Hookdeck CLI utility"
+}
