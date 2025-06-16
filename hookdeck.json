@@ -6,14 +6,14 @@
             "bin": [
                 "hookdeck.exe"
             ],
-            "hash": "e8e3026ca9f3c0c6ead1457f766d08d2af1f48bd7c4d4811080d57bd45923d88"
+            "hash": "4de9ec229bea29ead7a092207f8cccc7823cec0a60fccd54472ee0dfde2de574"
         },
         "64bit": {
             "url": "https://github.com/hookdeck/hookdeck-cli/releases/download/v1.0.0-beta.1/hookdeck_1.0.0-beta.1_windows_amd64.tar.gz",
             "bin": [
                 "hookdeck.exe"
             ],
-            "hash": "f3576d7b2d0656892d706eaa7371eca488a9f2bf2b7f3e7f7bf4d2d9399fc91d"
+            "hash": "825cb7f9fd02f53f623b430216bf5c05c68e6bddb26d1a1eb61cb84d711fc2c1"
         }
     },
     "homepage": "https://hookdeck.com",
