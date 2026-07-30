@@ -1,19 +1,19 @@
 {
-    "version": "2.2.0",
+    "version": "2.3.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/hookdeck/hookdeck-cli/releases/download/v2.2.0/hookdeck_2.2.0_windows_386.tar.gz",
+            "url": "https://github.com/hookdeck/hookdeck-cli/releases/download/v2.3.0/hookdeck_2.3.0_windows_386.tar.gz",
             "bin": [
                 "hookdeck.exe"
             ],
-            "hash": "639c705a6d671623c95914a5cbd2bc3d5877739fbcca6cd3d2cf42ab19ba5947"
+            "hash": "76f5d81641bbe54595b4da03c4a09f9c967084a4d69d4d6aaff02ade0aa29763"
         },
         "64bit": {
-            "url": "https://github.com/hookdeck/hookdeck-cli/releases/download/v2.2.0/hookdeck_2.2.0_windows_amd64.tar.gz",
+            "url": "https://github.com/hookdeck/hookdeck-cli/releases/download/v2.3.0/hookdeck_2.3.0_windows_amd64.tar.gz",
             "bin": [
                 "hookdeck.exe"
             ],
-            "hash": "301dc4b749dcbbb4108260904ae48b8dc12210aaaedac5737ec6f93f2b1c4b5b"
+            "hash": "5a6511110414476b46964dd917c29d71eaaea5c7ab19a602581321a188e52e04"
         }
     },
     "homepage": "https://hookdeck.com",
